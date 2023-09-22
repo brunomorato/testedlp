@@ -2,3 +2,5 @@ afya
 teste
 senha
 password
+cpf
+cnpj
