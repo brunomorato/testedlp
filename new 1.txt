@@ -29,3 +29,32 @@ cnpj
 351.767.216-51
 525.516.116-01
 897.947.524-10
+
+
+[
+	{
+		"nome": "Arthur Edson Benjamin Araújo",
+		"idade": 18,
+		"cpf": "872.097.907-05",
+		"rg": "36.610.719-7",
+		"data_nasc": "07/04/2005",
+		"sexo": "Masculino",
+		"signo": "Áries",
+		"mae": "Fernanda Gabriela",
+		"pai": "Marcos Emanuel Enzo Araújo",
+		"email": "arthur-araujo74@ufscar.br",
+		"senha": "G69H8cfZ20",
+		"cep": "28666-971",
+		"endereco": "Sítio Côrrego de Santo Antônio",
+		"numero": 593,
+		"bairro": "Côrrego de Santo Antonio",
+		"cidade": "Barra Alegre",
+		"estado": "RJ",
+		"telefone_fixo": "(22) 2806-5123",
+		"celular": "(22) 99222-5710",
+		"altura": "1,83",
+		"peso": 99,
+		"tipo_sanguineo": "O+",
+		"cor": "vermelho"
+	}
+]
